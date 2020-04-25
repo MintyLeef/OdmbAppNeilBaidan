@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565692617525",
+    "firebase_url": "https://odmb-movie.firebaseio.com",
+    "project_id": "odmb-movie",
+    "storage_bucket": "odmb-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565692617525:android:05a3420645621ef4f7b27c",
+        "android_client_info": {
+          "package_name": "com.example.odmbmovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565692617525-ngepipfqqev5j6ie1o4ol71r82gc83ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.odmbmovie",
+            "certificate_hash": "b6f84b872921b65950f60ab23fddec6ad6331c04"
+          }
+        },
+        {
+          "client_id": "565692617525-4el2t9avau8cjsldp9dl4m9tm5pnpep7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6_om_Govc9lAOAzaDaquk7PxMCZ4fko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565692617525-4el2t9avau8cjsldp9dl4m9tm5pnpep7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
